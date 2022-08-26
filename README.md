@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=75% width=75% src="https://www.pikpng.com/pngl/m/19-193683_multi-coloured-sound-waves-colorful-sound-waves-png.png" alt="example"></a>
+ <img height=75% width=75% src="wave.png" alt="example"></a>
 </p>
 
 <h3 align="center">Music Categorizer</h3>

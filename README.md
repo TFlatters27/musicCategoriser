@@ -28,4 +28,3 @@
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@mxcury](https://github.com/mxcury) 
-# musicCategoriser

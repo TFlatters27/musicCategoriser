@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=50% width=75% src="wave.png" alt="example"></a>
+ <img height=50% width=75% src="music.png" alt="example"></a>
 </p>
 
 <h3 align="center">Music Categorizer</h3>
